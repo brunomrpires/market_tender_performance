@@ -1,4 +1,4 @@
-# market_tender_preformance
+# market_tender_performance
 In this repository you can find the source code and main data used in my Master's Thesis project at Instituto Superior Técnico.
 
 In this project we analyse real life data from a portuguese company working in the construction adn service provider business. This project has two main goals:
